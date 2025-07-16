@@ -13,6 +13,7 @@
     {"width": 75,"height": 75, "x":120, "y": 50,"fill": "blue"},
     {"width": 100,"height": 100, "x":210, "y": 50,"fill": "purple"},
     {"width": 125,"height": 125, "x":330, "y": 50,"fill": "green"},
+    {"width": 175,"height": 135, "x":380, "y": 50,"fill": "orange"},
     {"width": 150,"height": 150, "x":480, "y": 50,"fill": "yellow"}
     ]
 }
